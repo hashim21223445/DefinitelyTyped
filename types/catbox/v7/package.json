@@ -6,7 +6,7 @@
         "https://github.com/hapijs/catbox"
     ],
     "dependencies": {
-        "@types/boom": "^4"
+        "@types/boom": "^7.3.5"
     },
     "devDependencies": {
         "@types/catbox": "workspace:."
