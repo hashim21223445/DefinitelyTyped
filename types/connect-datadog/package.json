@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/express": "*",
-        "hot-shots": "^6.3.0"
+        "hot-shots": "^11.1.0"
     },
     "devDependencies": {
         "@types/connect-datadog": "workspace:."
